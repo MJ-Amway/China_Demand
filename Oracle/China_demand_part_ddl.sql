@@ -1,5 +1,5 @@
 CREATE TABLE DWSEAI01.CHINA_DEMAND_PART
-("curcy_id"	NUMBER(38,0),
+("curcy_id"	VARCHAR2(3 CHAR),
 "comb_ord_flag"	VARCHAR2(5 BYTE),
 "comb_ord_id"	NUMBER,
 "ord_id"	NUMBER,
